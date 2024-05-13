@@ -28,7 +28,7 @@ function Navigation({ authUser, signOut }) {
           {/* Changed icon to AiOutlineTrophy */}
           Leaderboard
         </Link>
-        </nav>
+      </nav>
       <div className="nav__user-info flex items-center">
         <img src={avatar} alt={name} title={name} className="w-10 h-10 rounded-full mr-2" />
         <button type="button" onClick={signOut} className="bg-red-500 hover:bg-red-600 px-3 py-1 rounded-md text-sm">
