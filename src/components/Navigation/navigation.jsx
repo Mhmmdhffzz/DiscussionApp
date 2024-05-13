@@ -26,7 +26,7 @@ function Navigation({ authUser, signOut }) {
         <Link to="/leaderboard" className="nav-link flex items-center">
           <AiOutlineTrophy className="mr-1 text-lg" />
           {/* Changed icon to AiOutlineTrophy */}
-          Leaderboard
+          Leaderboards
         </Link>
         </nav>
       <div className="nav__user-info flex items-center">
