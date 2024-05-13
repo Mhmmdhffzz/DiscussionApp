@@ -1,3 +1,4 @@
+/* eslint-disable linebreak-style */
 /**
  * - Login spec
  *   - should display login page correctly
